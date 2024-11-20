@@ -1,0 +1,2 @@
+
+print("Nou fitxer")
